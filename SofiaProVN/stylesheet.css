@@ -1,0 +1,144 @@
+@font-face {
+    font-family: 'SVN-Sofia Pro';
+    src: url('SVN-SofiaProBoldItalic.woff2') format('woff2'),
+        url('SVN-SofiaProBoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SVN-Sofia Pro';
+    src: url('SVN-SofiaProBlack.woff2') format('woff2'),
+        url('SVN-SofiaProBlack.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SVN-Sofia Pro';
+    src: url('SVN-SofiaProBlackItalic.woff2') format('woff2'),
+        url('SVN-SofiaProBlackItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SVN-Sofia Pro';
+    src: url('SVN-SofiaProItalic.woff2') format('woff2'),
+        url('SVN-SofiaProItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SVN-Sofia Pro';
+    src: url('SVN-SofiaProLightItalic.woff2') format('woff2'),
+        url('SVN-SofiaProLightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SVN-Sofia Pro';
+    src: url('SVN-SofiaProExtraLightItalic.woff2') format('woff2'),
+        url('SVN-SofiaProExtraLightItalic.woff') format('woff');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SVN-Sofia Pro';
+    src: url('SVN-SofiaProBold.woff2') format('woff2'),
+        url('SVN-SofiaProBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SVN-Sofia Pro';
+    src: url('SVN-SofiaProExtraLight.woff2') format('woff2'),
+        url('SVN-SofiaProExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SVN-Sofia Pro';
+    src: url('SVN-SofiaProLight.woff2') format('woff2'),
+        url('SVN-SofiaProLight.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SVN-Sofia Pro';
+    src: url('SVN-SofiaProMedium.woff2') format('woff2'),
+        url('SVN-SofiaProMedium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SVN-Sofia Pro';
+    src: url('SVN-SofiaProMediumItalic.woff2') format('woff2'),
+        url('SVN-SofiaProMediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SVN-Sofia Pro';
+    src: url('SVN-SofiaProUltraLightItalic.woff2') format('woff2'),
+        url('SVN-SofiaProUltraLightItalic.woff') format('woff');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SVN-Sofia Pro';
+    src: url('SVN-SofiaProSemiBoldItalic.woff2') format('woff2'),
+        url('SVN-SofiaProSemiBoldItalic.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SVN-Sofia Pro';
+    src: url('SVN-SofiaProUltraLight.woff2') format('woff2'),
+        url('SVN-SofiaProUltraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SVN-Sofia Pro';
+    src: url('SVN-SofiaPro.woff2') format('woff2'),
+        url('SVN-SofiaPro.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SVN-Sofia Pro';
+    src: url('SVN-SofiaProSemiBold.woff2') format('woff2'),
+        url('SVN-SofiaProSemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
